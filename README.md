@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samyak Pagariya
 - 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning frontend devlopment and DSA
+- 🌱 I’m currently learning frontend,devlopment and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
